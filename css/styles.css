@@ -1,0 +1,7 @@
+h1 {
+  text-align: center;
+  background: url("../img/catdog.jpeg") no-repeat center;
+  padding: 100px 0;
+  /*background-size: cover;*/
+  box-sizing: border-box;
+}
